@@ -1,0 +1,1 @@
+User-agent: * Sitemap: https://receitinhas.lzart.com.br/sitemap.xml Disallow: /contact-success/
